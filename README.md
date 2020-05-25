@@ -7,7 +7,7 @@ for more information.
 ## System requirements
 
  * Web server
- * PHP 5.6.0+ with GDlib, DOM, Phar and SOAP
+ * PHP 5.6.0+ with GDlib, DOM and SOAP
  * MySQL 5.0.3+
 
 ## Installation
